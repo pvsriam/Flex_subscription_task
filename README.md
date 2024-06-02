@@ -1,6 +1,5 @@
 Flex_subscription_task
 
-Subscription Task
 This repository contains the implementation of a subscription task using HTML and CSS Flexbox. The design is responsive and uses flexbox for layout management.
 
 Description
